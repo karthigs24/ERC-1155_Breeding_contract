@@ -1,0 +1,9 @@
+package-lock.json
+build
+# dependencies
+/node_modules
+
+#secrets
+secrets.json
+.env
+lib
